@@ -1,7 +1,6 @@
 # 詳細
 桃鈴ねね非公式ファンサイトに掲載する情報をTwitter、YouTubeAPIを使用して取得するためのツールです。
 [![Image from Gyazo](https://i.gyazo.com/e3fb4785ae9d6d44915d68cf513f4b81.jpg)](https://gyazo.com/e3fb4785ae9d6d44915d68cf513f4b81)
-[![Image from Gyazo](https://i.gyazo.com/3ccf823f907726128509d5e820afb065.jpg)](https://gyazo.com/3ccf823f907726128509d5e820afb065)
 [![Image from Gyazo](https://i.gyazo.com/82380d58d8fbb4fda1fcff3a928029e3.jpg)](https://gyazo.com/82380d58d8fbb4fda1fcff3a928029e3)
 
 https://konnene-matanene.herokuapp.com/
